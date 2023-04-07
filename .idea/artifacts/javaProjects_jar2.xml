@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="javaProjects:jar2">
+    <output-path>$PROJECT_DIR$/../outputprojectnadav</output-path>
+    <root id="archive" name="javaProjects.jar">
+      <element id="module-output" name="javaProjects" />
+    </root>
+  </artifact>
+</component>
